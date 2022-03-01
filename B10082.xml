@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the knights, gentlemen and free-holders and commons of England, Edward Stephens wisheth prudence, piety, peace and happiness.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10082</idno>
+            <idno type="OCLC"> 80923991</idno>
+            <idno type="STC">Wing S5444D</idno>
+            <idno type="STC">ESTC R228161</idno>
+            <idno type="EEBO-CITATION">80923991</idno>
+            <idno type="OCLC">ocm 80923991</idno>
+            <idno type="VID">192034</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10082)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192034)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2898:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the knights, gentlemen and free-holders and commons of England, Edward Stephens wisheth prudence, piety, peace and happiness.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"To Sir Richard Cocks": p. 2-4.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cocks, Richard, --  Sir, ca. 1658-1726.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Elections --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:192034:1" rendition="simple:additions"/>
+            <head>To the Knights, Gentlemen, Freeholders and Commons of <hi>England,</hi> EDWARD STEPHENS wiſheth Prudence, Piety, Peace and Happineſs.</head>
+            <opener>
+               <salute>Gentlemen and Fellow-Commoners,</salute>
+            </opener>
+            <p>WHat you ſee here <hi>Open</hi> was ſent <hi>Sealed</hi> to divers Mem<g ref="char:EOLhyphen"/>bers, your Truſtees and Repreſentatives in Parlia<g ref="char:EOLhyphen"/>ment, being then printed, not to be publiſh'd, but only a ſmall number to be preſented to them. But ſince they have pu<g ref="char:EOLhyphen"/>bubliſh'd their<note n="*" place="margin">V. Old Eng<g ref="char:EOLhyphen"/>liſh Loyalty. <hi>p.</hi> 13. 14.</note> 
+               <hi>Votes</hi> concerning it; 'tis fit and but juſt you ſhould ſee what it is they have ſo Cenſur'd. I have many years endea<g ref="char:EOLhyphen"/>voured to ſerve you to the beſt of my Ability, without ſeeking Preferment or Reward from Men, or accepting of what hath been of<g ref="char:EOLhyphen"/>fer'd. What I have written lately for the Service of our Great Maſter and your Selves, hath been ill requited by the Prudential<note n="*" place="margin">A name not impoſed, but aſ<g ref="char:EOLhyphen"/>ſumed very pro<g ref="char:EOLhyphen"/>perly.</note> 
+               <hi>Latitudina<g ref="char:EOLhyphen"/>rian</hi> Biſhops with Falſe Reports and Calumnies, no leſs than of <hi>Mad<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Popery,</hi> like the <hi>Falſe Prophets</hi> of old, and the <hi>Incendiaries</hi> of the late Civil Wars: And what I have offer'd to the Houſe for the ſame purpoſe, both formerly, and now again, hath been ſo treated as is very inconſiſtent either with their Duty or our Right. For theſe things <hi>I appeal</hi> to the Righteous Judgment of Almighty God, to your own Conſciences, and to the next Parliamant; and to a Convention of the Clergy, as to what concerns the Biſhops and the falſe Charge of Popery. Theſe Gentlemen, who ſet up themſelves for <hi>our Maſters,</hi> receive all their Authority from Us, and under our Hands and Seals; and if we do not let them know they are our <hi>our Servants,</hi> and accountable to Us for their Behaviour, We our ſelves are juſtly anſwerable for their Misbehaviour before God and Man. And if we do not appear as well for the Honour of the King, when there is occaſion, as for the Rights of the Subject, we do not diſcharge our Duty to our Country, perform our Oath to the King, or are Worthy of the Benefit of ſo Noble a Government. I hope you will look better to your Election the next time, and ſend up ſuch Perſons as have more ſenſe of Re<g ref="char:EOLhyphen"/>ligion
+<pb facs="tcp:192034:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:192034:3" rendition="simple:additions"/>and their Duty to God, of the true <hi>Engliſh</hi> Government, and the Honour of the King, of your Rights and the Truſt re<g ref="char:EOLhyphen"/>poſed in them, and fit to enquire into the Miſcarriages of theſe.</p>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>To Sir</hi> Richard Cocks.</head>
+            <opener>
+               <salute>Sir <hi>Richard,</hi>
+               </salute>
+            </opener>
+            <p>AS I am a Commoner of <hi>England,</hi> it is, as I told you be<g ref="char:EOLhyphen"/>fore, my Right and my Duty to take notice, and com<g ref="char:EOLhyphen"/>plain to the <hi>Houſe of Commons,</hi> of all, or any ſuch mat<g ref="char:EOLhyphen"/>ters of publick Concern as are proper for the Inquiry or Conſideration of that Houſe. And as I am a Chriſtian, I am much more obliged to uſe that Right, and diſcharge that Duty, when they are ſuch as do affront, or do Contempt to the Chriſtian Religion, which is the Religion of the Nation, and ſo Eſſential a part of this Conſtitution, that it is one of the Fundamental Principles of our Laws, that what-ever Laws are enacted in any thing contrary to this Religion, they are ſo far void and null. This is the common Right and Duty of every Commoner of <hi>England.</hi> But beſides all this, I have been for ſome Years, by the ſpecial Providence of Al<g ref="char:EOLhyphen"/>mighty God, engaged in his more immediate Service, and without limitation to any ſpecial Charge; ſo that where-ever I have oppor<g ref="char:EOLhyphen"/>tunity for his Service, I am obliged faithfully to diſcharge it. And beſides all this, I am obliged by Oath to be faithful to the preſent King, which I intend, by the Grace of God, faithfully to perform, tho for ſpecial, and, I think, good Reaſons, I refuſe to take it again. Theſe are great Obligations, and ſuch as I cannot diſcharge without taking notice and complaining of what I obſerve greatly amiſs in <hi>Both Houſes of Parliament.</hi> And I ſhall do it firſt to you, as my pro<g ref="char:EOLhyphen"/>per Repreſentative; and by you deſire it may be repreſented to the Houſe, as you will anſwer it to your Country, for which you ſerve.</p>
+            <p>In your Houſe I obſerve ſuch abominable Impiety, and Contempt of Religion, as greater hath rarely been known: I have heard it complained of by Members of the Houſe, that a Man can hardly mention any thing of God or Religion there, but he ſhall be in danger to be ridicul'd or laught at. And when I have asked, why no body moved the Houſe that ſome of them might be called to the Bar, and made Examples, the common Anſwer hath been, <hi>It would be to no purpoſe.</hi> Which is the Shame of the whole Houſe, and notorious Evidence of their Impudence and Ignorance of what becomes ſuch Aſſemblies, in one part of them; and of ſuch Baſe<g ref="char:EOLhyphen"/>neſs,
+<pb n="3" facs="tcp:192034:3"/>as makes them unworthy of the Name of Chriſtians in the reſt; as if the generous Diſcharge of ſo great and noble a Duty, was not of it ſelf a thing to great purpoſe; as if the Fearful, or ſuch as are aſhamed of Chriſt, or his Words, are not to have their part with Infidels and Unbelievers; <hi>that is,</hi> with ſuch as the reſt of their Fellow-Members of whom they complain; as if their Baſe<g ref="char:EOLhyphen"/>neſs might not reaſonably be imputed by the others to Infidelity and Disbelief of the Religion, which they profeſs, to the Scandal of Religion, and Hardening thoſe poor Creatures in their Impiety. It is no wonder if the whole Nation abound in Infidelity, and all kind of Wickedneſs, when there is no more Religion in thoſe who ſhould correct it among the Commons, and the<note n="*" place="margin">Of their Pru<g ref="char:EOLhyphen"/>dentials, I have long ſince no<g ref="char:EOLhyphen"/>ted one re<g ref="char:EOLhyphen"/>markable In<g ref="char:EOLhyphen"/>ſtance in <hi>Re<g ref="char:EOLhyphen"/>flections on the Action at Sea,</hi> p. <hi>29, 30, 31,</hi> and another lately in my <hi>Narrative,</hi> be<g ref="char:EOLhyphen"/>ſides others elſewhere.</note> 
+               <hi>Latitudinarian</hi> Bi<g ref="char:EOLhyphen"/>ſhops among the Lords. And now I appeal to the Conſciences of all, who have any Senſe of Religion, and to the dreadful Tribunal of Almighty God, whether theſe things be not true, and whether there be not more danger to the Nation from ſuch a <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons,</hi> and ſuch <hi>Biſhops,</hi> than from <hi>Popery,</hi> and from all the <hi>Prieſts</hi> and <hi>Jeſuites</hi> in the Nation, if they were as many more as they are.</p>
+            <p>And where there is no more Fear of God, it is no wonder if there be not that Honour and Reſpect for the King, that there ought to be: Freedom of Debates in Parliament is undoubtedly the Right of the Subject: But if under pretence of Freedom of Debates any members ſhall do acts of Inſolence and Diſreſpect to the King, that is no part of their Right, but a Violation of Duty to the King, and tending to the Diſſolution of the Government, and ought to be corrected.</p>
+            <p>That your late <hi>Votes,</hi> grounded upon a falſe and fooliſh Letter to a Member of Parliament, was ſuch, is believed by many, to get an advantage againſt the King; and to prevent that, 'tis likely many did comply in their Votes, who did not ſee any other reaſon for it; and the Choice of the Chairman for that Committee, a Per<g ref="char:EOLhyphen"/>ſon, who was turn'd out of her Service by the late good Queen, hath declared openly in your Lobby to my ſelf, that he thought Vice ought to be encouraged, and is reported to have expreſſed no little diſreſpect to the King in your Houſe before now, is a con<g ref="char:EOLhyphen"/>ſiderable Aggravation of the Indignity. How ſuch things can be conſiſtent either with Conſcience and Religion, Civil Duty to our Country, and one of the beſt Governments in the World, or their Oaths of Fidelity to the King, I do not underſtand: Nor ſo much as with common Prudence for themſelves, and their own Rights. The King hath ſhewed himſelf a Prince of great Courage, and of as great Prudence and Conduct. Almighty God has by him, as his Inſtrument, in Confederacy with divers of the chief Catholick Princes, vouchſafed us a happy Peace, if we have the Diſcretion to uſe it as we ought, and as becomes Perſons ſenſible of his Goodneſs,
+<pb n="4" facs="tcp:192034:4" rendition="simple:additions"/>and of the Reſpect they ought to have for his Inſtruments in it. But I doubt theſe Politicians do but egregiouſly befool themſelves with a vain Conceit add Preſumption of having the Purſe of the Nation. For certainly the King hath as little need of them, as they have of him: And by ſuch Politicks they do but provoke the juſt Indigna<g ref="char:EOLhyphen"/>tion, not only of a wiſe Prince, but of all honeſt and faithful Sub<g ref="char:EOLhyphen"/>jects; and moſt of all, of thoſe Confederates, who, if this King ſhould die, as he muſt one day, may by the juſt Judgment of God, enter into a Confederacy of themſelves to correct their Ingratitude and Folly. Nay, ſhould the King but diſſolve this Parliament, and in a Declaration ſet out ſuch Reaſons as he may for that, and for Calling of another, their little Politicks with themſelves might pro<g ref="char:EOLhyphen"/>bably be ſoon in the dirt. The <hi>Pretence of the</hi>
+               <note n="*" place="margin">There are other more pro<g ref="char:EOLhyphen"/>per, natural, and effectual Means to re<g ref="char:EOLhyphen"/>move all Fear of <hi>Popery,</hi> than ſuch Violence of Factions: of which the King cannot but know ſomething.</note> 
+               <hi>Growth of Popery</hi> hath been made uſe of to ſo ill purpoſe heretofore; hath ſo little ground at this time, more than what proceeds from the Negligence of the Clergy in aſſiſting condemned Perſons, and viſiting the Sick, and the Obſtinacy and Unconcernedneſs of a Party of Prudential <hi>La<g ref="char:EOLhyphen"/>titudinarian</hi> Biſhops, for what does more properly belong to their Charge, and particularly for mending their Cauſe, and making that ſound, which is indefenſible at preſent; and is raiſed, I believe, ſo unſeaſonably to ſerve and ſupport a lame and tottering Cauſe, that 'tis like to prove the Shame and Confuſion both of it, and of thoſe who make uſe of ſuch indirect Means for that purpoſe. Let me but know who were the Compoſers of that Letrer, and had the Impudence and Folly to call me (as it is commonly un<g ref="char:EOLhyphen"/>derſtood) <hi>Madman Convert,</hi> (two Lyes at once) and I do not doubt but to give you ſuch Account of the whole Matter, as will ſufficiently ſatifie both the Houſe and all honeſt and wiſe Men in the Nation. What I have more to ſay, I ſhall reſerve till I ſee what Uſe is made of this. I hope the Houſe will conſider what is to be done, both to <hi>expiate</hi> that provoking Wickedneſs againſt God, and to <hi>Correct,</hi> as they deſerve, all Indignities done to the King: and you ſhall always find me ready, in what belongs to me, to ſerve Both, and my Country, in the beſt manner I can.</p>
+            <closer>
+               <signed>
+                  <hi>Your humble Servant,</hi> Edward Stephens.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
